@@ -4,7 +4,7 @@ interface Props {
     fill?: string;
 }
 
-export const ArrowIcon: React.FC<Props> = ({fill = "#0032FF"}) => {
+export const ArrowIcon: React.FC<Props> = ({fill = "#e0b351"}) => {
     return (
         <svg
             width="24"

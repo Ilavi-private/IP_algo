@@ -24,7 +24,7 @@
 
 .title {
     display: inline-block;
-    line-height: 152px;
+    line-height: 100px;
 }
 
 .fibonacci_title {
@@ -98,24 +98,6 @@
 
 .list:hover {
     background-image: url("../../images/list-hover.svg");
-}
-
-.ticker {
-    background-color: var(--text-color-h1);
-    height: 60px;
-    overflow: hidden;
-}
-
-.dot_box {
-    margin: 0 auto;
-    padding: 0 78px;
-}
-
-.dot {
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-    background-color: var(--text-color-secondary);
 }
 
 .copyright {

@@ -218,7 +218,7 @@ export const ListPage: React.FC = () => {
     const stateButtonDeleteAt = !list.listLength || !ind || loading || +ind < 0 || +ind > list.listLength - 1;
 
     return (
-        <SolutionLayout title="Связный список">
+        <SolutionLayout title="Linked List">
             <div className={listPageStyles.mainContainer}>
                 <div className={listPageStyles.controlContainer}>
                     <section className={listPageStyles.section}>

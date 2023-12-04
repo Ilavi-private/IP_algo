@@ -9,7 +9,7 @@
     "btn3 btn3";
     grid-template-rows: auto auto;
     grid-template-columns: auto auto;
-    gap: 12px;
+    gap: 15px;
     max-width: 362px;
 }
 

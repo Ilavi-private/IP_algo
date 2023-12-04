@@ -17,12 +17,11 @@ export const SolutionLayout: React.FC<SolutionLayoutProps> = ({
         <main className={`${styles.content} ${extraClass}`}>
             <div className={styles.titleBox}>
                 <h1 className={`text text_type_h2 text_color_h1 ${styles.title}`}>
-                    МБОУ АЛГОСОШ
+                    Ilavi Algo
                 </h1>
                 <span
-                    className={`text text_type_fibonacci text_color_secondary ${styles.subtitle}`}
+                    className={`text text_color_secondary ${styles.subtitle}`}
                 >
-          им. Фибоначчи
         </span>
             </div>
             <div className={styles.contentCard}>
@@ -37,7 +36,7 @@ export const SolutionLayout: React.FC<SolutionLayoutProps> = ({
             <p
                 className={`text text_type_column text_color_input mt-14 ${styles.copyright}`}
             >
-                © Сделано в Практикуме.
+                © Сделано Юровских Илави.
             </p>
         </main>
     );
