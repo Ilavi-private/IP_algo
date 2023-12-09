@@ -32,10 +32,6 @@
     width: 362px;
 }
 
-.small {
-    width: 175px;
-}
-
 .loader:disabled {
     background-color: var(--bg-button-default);
 }

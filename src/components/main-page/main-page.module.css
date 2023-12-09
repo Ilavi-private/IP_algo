@@ -1,5 +1,5 @@
 .content {
-    background-image: url("../../images/bg.jpg");
+    background-color: #141414;
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
@@ -7,11 +7,6 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-}
-
-.container {
-    max-width: 1280px;
-    margin: 0 auto;
 }
 
 .title_box {
@@ -25,13 +20,6 @@
 .title {
     display: inline-block;
     line-height: 100px;
-}
-
-.fibonacci_title {
-    display: inline-block;
-    writing-mode: vertical-lr;
-    transform: rotate(180deg);
-    margin-left: -6px;
 }
 
 .cards_box {
@@ -50,22 +38,6 @@
     cursor: pointer;
     transition: var(--common-transition);
     border-radius: 20px;
-}
-
-.string {
-    background-image: url("../../images/string.svg");
-}
-
-.string:hover {
-    background-image: url("../../images/string-hover.svg");
-}
-
-.fibonacci {
-    background-image: url("../../images/fibonacci.svg");
-}
-
-.fibonacci:hover {
-    background-image: url("../../images/fibonacci-hover.svg");
 }
 
 .arr {

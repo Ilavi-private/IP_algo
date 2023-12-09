@@ -1,19 +1,21 @@
 :root {
-    --background: #fff;
+    --background: #141414;
     --offset-base-size: 2px;
 
     --common-border-radius: 4px;
 
-    --text-color-primary: #292929;
+    --text-color-primary: rgba(98, 145, 145, 0.13);
     --text-color-secondary: #fff;
 
-    --text-color-h1: #141414;
-    --text-color-black: #000;
+    --text-color-h1: #fff;;
+    --text-color-black: #fff;;
     --text-color-input: #3d3d3d;
     --text-input-placeholder: #7a7a7a;
 
     --bg-input-hover: #fafafa;
     --bg-input-disabled: #ebebeb;
+
+    --red-bg-color: #790000;
 
     --bg-button-default: #b6b6b6;
     --bg-button-hover: #59b71d;
@@ -24,14 +26,9 @@
     --changing-color: rgb(87, 87, 87);
     --modified-color: #e0b351;
 
-    --common-transition: all 0.3s ease-in;
+    --common-transition: all 0.4s ease-in;
 }
 
-@-moz-document url-prefix() {
-    :root {
-        scrollbar-color: var(--scrollbar-color);
-    }
-}
 
 body {
     font-family: -apple-system, Roboto,
@@ -77,9 +74,9 @@ body {
 }
 
 .text_type_h1 {
-    font-family: "Roboto", sans-serif;
+    font-family: Bergamasco, serif;
     font-style: normal;
-    font-weight: 900;
+    font-weight: 300;
     font-size: 134px;
     line-height: 163px;
 }

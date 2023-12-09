@@ -13,11 +13,3 @@
 .default {
     background-color: var(--default-color);
 }
-
-.changing {
-    background-color: var(--changing-color);
-}
-
-.modified {
-    background-color: var(--modified-color);
-}
