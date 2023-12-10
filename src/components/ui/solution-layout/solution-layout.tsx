@@ -6,6 +6,7 @@ import styles from "./solution-layout.module.css";
 interface SolutionLayoutProps {
     title: string;
     extraClass?: string;
+    children?: any;
 }
 
 export const SolutionLayout: React.FC<SolutionLayoutProps> = ({
@@ -17,7 +18,7 @@ export const SolutionLayout: React.FC<SolutionLayoutProps> = ({
         <main className={`${styles.content} ${extraClass}`}>
             <div className={styles.titleBox}>
                 <h1 className={`text text_type_h2 text_color_h1 ${styles.title}`}>
-                    Ilavi Algo
+                    VisuAlGo
                 </h1>
                 <span
                     className={`text text_color_secondary ${styles.subtitle}`}
@@ -25,7 +26,7 @@ export const SolutionLayout: React.FC<SolutionLayoutProps> = ({
         </span>
             </div>
             <div className={styles.contentCard}>
-                <Link className={styles.link} to="/">
+                <Link className={styles.link} to="/VisuAlGo/">
                     <ReturnButton extraClass={styles.returnButton}/>
                 </Link>
                 <h3 className={`text text_type_h3 text_color_h3 ${styles.cardTitle}`}>
@@ -36,7 +37,7 @@ export const SolutionLayout: React.FC<SolutionLayoutProps> = ({
             <p
                 className={`text text_type_column text_color_input mt-14 ${styles.copyright}`}
             >
-                © Сделано Юровских Илави.
+                ©Сделано Юровских Илави.
             </p>
         </main>
     );
