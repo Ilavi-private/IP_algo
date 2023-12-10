@@ -1,28 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.65e25d24.css",
-    "main.js": "/static/js/main.5dcd5d0f.js",
-    "static/js/787.5f9dd8bb.chunk.js": "/static/js/787.5f9dd8bb.chunk.js",
-    "index.html": "/index.html",
-    "static/media/arr.svg": "/static/media/arr.f0ec8fd77f5a9166ce8d.svg",
-    "static/media/fibonacci-hover.svg": "/static/media/fibonacci-hover.f0ec8fd77f5a9166ce8d.svg",
-    "static/media/fibonacci.svg": "/static/media/fibonacci.f0ec8fd77f5a9166ce8d.svg",
-    "static/media/list-hover.svg": "/static/media/list-hover.f0ec8fd77f5a9166ce8d.svg",
-    "static/media/list.svg": "/static/media/list.f0ec8fd77f5a9166ce8d.svg",
-    "static/media/queue-hover.svg": "/static/media/queue-hover.f0ec8fd77f5a9166ce8d.svg",
-    "static/media/queue.svg": "/static/media/queue.f0ec8fd77f5a9166ce8d.svg",
-    "static/media/stack-hover.svg": "/static/media/stack-hover.f0ec8fd77f5a9166ce8d.svg",
-    "static/media/stack.svg": "/static/media/stack.f0ec8fd77f5a9166ce8d.svg",
-    "static/media/string-hover.svg": "/static/media/string-hover.f0ec8fd77f5a9166ce8d.svg",
-    "static/media/arr-hover.svg": "/static/media/arr-hover.2ae47c85363640cca1e0.svg",
-    "static/media/loader.svg": "/static/media/loader.3560c7ba1c44b9900cfc03ff6ddbe067.svg",
-    "static/media/string.svg": "/static/media/string.31d6cfe0d16ae931b73c.svg",
-    "main.65e25d24.css.map": "/static/css/main.65e25d24.css.map",
-    "main.5dcd5d0f.js.map": "/static/js/main.5dcd5d0f.js.map",
-    "787.5f9dd8bb.chunk.js.map": "/static/js/787.5f9dd8bb.chunk.js.map"
+    "main.css": "/VisuAlGo/static/css/main.c094bee4.css",
+    "main.js": "/VisuAlGo/static/js/main.86cdd7bd.js",
+    "static/media/list.svg": "/VisuAlGo/static/media/list.b51a9cfa18bac152f4eb.svg",
+    "static/media/queue-hover.svg": "/VisuAlGo/static/media/queue-hover.20fdb116e267bd8f6047.svg",
+    "static/media/stack-hover.svg": "/VisuAlGo/static/media/stack-hover.96eb0c536644996e0a52.svg",
+    "static/media/queue.svg": "/VisuAlGo/static/media/queue.95e44575832dc3a9dcc6.svg",
+    "static/media/list-hover.svg": "/VisuAlGo/static/media/list-hover.462f20f5f3ba4998e0e9.svg",
+    "static/media/arr-hover.svg": "/VisuAlGo/static/media/arr-hover.51ce642782b32e688cf6.svg",
+    "static/media/arr.svg": "/VisuAlGo/static/media/arr.a0a5dbe3a0de23057a7a.svg",
+    "static/media/stack.svg": "/VisuAlGo/static/media/stack.87350e0bb13f4c22000b.svg",
+    "static/media/Bergamasco Bold Italic.ttf": "/VisuAlGo/static/media/Bergamasco Bold Italic.ed2b4dfbf4df2b2243d2.ttf",
+    "static/media/Bergamasco Semibold Italic.ttf": "/VisuAlGo/static/media/Bergamasco Semibold Italic.2d87d5b6356343ab71cf.ttf",
+    "static/media/Bergamasco Bold.ttf": "/VisuAlGo/static/media/Bergamasco Bold.ca11b9700c1c20d69db7.ttf",
+    "static/media/Bergamasco Regular Italic.ttf": "/VisuAlGo/static/media/Bergamasco Regular Italic.30a7f60f907af21098ef.ttf",
+    "static/media/Bergamasco Semibold.ttf": "/VisuAlGo/static/media/Bergamasco Semibold.cedc050d784cc21b182b.ttf",
+    "static/media/Bergamasco Light Italic.ttf": "/VisuAlGo/static/media/Bergamasco Light Italic.a753a2c044e27d318b11.ttf",
+    "static/media/Bergamasco Regular.ttf": "/VisuAlGo/static/media/Bergamasco Regular.762148def280f9de6d4c.ttf",
+    "static/media/Bergamasco Light.ttf": "/VisuAlGo/static/media/Bergamasco Light.585a35e3a8796e8c9167.ttf",
+    "index.html": "/VisuAlGo/index.html",
+    "static/media/loader.svg": "/VisuAlGo/static/media/loader.51f5c0ec3cc39a6223a07dc6bcce4577.svg",
+    "main.c094bee4.css.map": "/VisuAlGo/static/css/main.c094bee4.css.map",
+    "main.86cdd7bd.js.map": "/VisuAlGo/static/js/main.86cdd7bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.65e25d24.css",
-    "static/js/main.5dcd5d0f.js"
+    "static/css/main.c094bee4.css",
+    "static/js/main.86cdd7bd.js"
   ]
 }
