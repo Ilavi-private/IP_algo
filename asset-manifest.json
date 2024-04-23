@@ -1,30 +1,25 @@
 {
   "files": {
-    "main.css": "/VisuAlGo/static/css/main.c094bee4.css",
-    "main.js": "/VisuAlGo/static/js/main.86cdd7bd.js",
-    "static/media/list.svg": "/VisuAlGo/static/media/list.b51a9cfa18bac152f4eb.svg",
-    "static/media/queue-hover.svg": "/VisuAlGo/static/media/queue-hover.20fdb116e267bd8f6047.svg",
-    "static/media/stack-hover.svg": "/VisuAlGo/static/media/stack-hover.96eb0c536644996e0a52.svg",
-    "static/media/queue.svg": "/VisuAlGo/static/media/queue.95e44575832dc3a9dcc6.svg",
-    "static/media/list-hover.svg": "/VisuAlGo/static/media/list-hover.462f20f5f3ba4998e0e9.svg",
-    "static/media/arr-hover.svg": "/VisuAlGo/static/media/arr-hover.51ce642782b32e688cf6.svg",
-    "static/media/arr.svg": "/VisuAlGo/static/media/arr.a0a5dbe3a0de23057a7a.svg",
-    "static/media/stack.svg": "/VisuAlGo/static/media/stack.87350e0bb13f4c22000b.svg",
-    "static/media/Bergamasco Bold Italic.ttf": "/VisuAlGo/static/media/Bergamasco Bold Italic.ed2b4dfbf4df2b2243d2.ttf",
-    "static/media/Bergamasco Semibold Italic.ttf": "/VisuAlGo/static/media/Bergamasco Semibold Italic.2d87d5b6356343ab71cf.ttf",
-    "static/media/Bergamasco Bold.ttf": "/VisuAlGo/static/media/Bergamasco Bold.ca11b9700c1c20d69db7.ttf",
-    "static/media/Bergamasco Regular Italic.ttf": "/VisuAlGo/static/media/Bergamasco Regular Italic.30a7f60f907af21098ef.ttf",
-    "static/media/Bergamasco Semibold.ttf": "/VisuAlGo/static/media/Bergamasco Semibold.cedc050d784cc21b182b.ttf",
-    "static/media/Bergamasco Light Italic.ttf": "/VisuAlGo/static/media/Bergamasco Light Italic.a753a2c044e27d318b11.ttf",
-    "static/media/Bergamasco Regular.ttf": "/VisuAlGo/static/media/Bergamasco Regular.762148def280f9de6d4c.ttf",
-    "static/media/Bergamasco Light.ttf": "/VisuAlGo/static/media/Bergamasco Light.585a35e3a8796e8c9167.ttf",
+    "main.css": "/VisuAlGo/static/css/main.3ec60a3f.chunk.css",
+    "main.js": "/VisuAlGo/static/js/main.76cab804.chunk.js",
+    "main.js.map": "/VisuAlGo/static/js/main.76cab804.chunk.js.map",
+    "runtime-main.js": "/VisuAlGo/static/js/runtime-main.9c73e72d.js",
+    "runtime-main.js.map": "/VisuAlGo/static/js/runtime-main.9c73e72d.js.map",
+    "static/js/2.288586bb.chunk.js": "/VisuAlGo/static/js/2.288586bb.chunk.js",
+    "static/js/2.288586bb.chunk.js.map": "/VisuAlGo/static/js/2.288586bb.chunk.js.map",
     "index.html": "/VisuAlGo/index.html",
-    "static/media/loader.svg": "/VisuAlGo/static/media/loader.51f5c0ec3cc39a6223a07dc6bcce4577.svg",
-    "main.c094bee4.css.map": "/VisuAlGo/static/css/main.c094bee4.css.map",
-    "main.86cdd7bd.js.map": "/VisuAlGo/static/js/main.86cdd7bd.js.map"
+    "precache-manifest.4598f79f07eb4b8835e7aa86f99b3e7e.js": "/VisuAlGo/precache-manifest.4598f79f07eb4b8835e7aa86f99b3e7e.js",
+    "service-worker.js": "/VisuAlGo/service-worker.js",
+    "static/css/main.3ec60a3f.chunk.css.map": "/VisuAlGo/static/css/main.3ec60a3f.chunk.css.map",
+    "static/js/2.288586bb.chunk.js.LICENSE.txt": "/VisuAlGo/static/js/2.288586bb.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/VisuAlGo/static/media/Journalism.a3ae700d.ttf",
+    "static/media/main-page.module.css": "/VisuAlGo/static/media/_hover=True, module=stack.3e9bb2ba.svg",
+    "static/media/loader.svg": "/VisuAlGo/static/media/loader.0b04fece.svg"
   },
   "entrypoints": [
-    "static/css/main.c094bee4.css",
-    "static/js/main.86cdd7bd.js"
+    "static/js/runtime-main.9c73e72d.js",
+    "static/js/2.288586bb.chunk.js",
+    "static/css/main.3ec60a3f.chunk.css",
+    "static/js/main.76cab804.chunk.js"
   ]
 }
