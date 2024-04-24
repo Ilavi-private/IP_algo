@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c71c50c49dec051be9ea146307cc6aa7",
+    "revision": "207ed50e9adaac8ddc0be86998592170",
     "url": "/VisuAlGo/index.html"
   },
   {
-    "revision": "78fb3ad815f072751ee0",
-    "url": "/VisuAlGo/static/css/main.9d26570f.chunk.css"
+    "revision": "206ab6c4209a1fef5145",
+    "url": "/VisuAlGo/static/css/main.26678698.chunk.css"
   },
   {
     "revision": "7e04c3e46866b279ab6c",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VisuAlGo/static/js/2.1c34c26d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "78fb3ad815f072751ee0",
+    "revision": "206ab6c4209a1fef5145",
     "url": "/VisuAlGo/static/js/main.2c0e8e15.chunk.js"
   },
   {
@@ -69,35 +69,35 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "8532b8d86af0f6139f6a0b8e6d2af606",
-    "url": "/VisuAlGo/static/media/_hover=False, module=linkedList.8532b8d8.svg"
+    "url": "/VisuAlGo/static/media/cover1.8532b8d8.svg"
   },
   {
     "revision": "aaaf3f0072fe7a1c5cc8b0645700c3fe",
-    "url": "/VisuAlGo/static/media/_hover=False, module=queue.aaaf3f00.svg"
+    "url": "/VisuAlGo/static/media/cover2.aaaf3f00.svg"
   },
   {
     "revision": "244026cd9f57fd3bb801c544b5d76f70",
-    "url": "/VisuAlGo/static/media/_hover=False, module=sorting.244026cd.svg"
+    "url": "/VisuAlGo/static/media/cover3.244026cd.svg"
   },
   {
     "revision": "2458efc0aa50961abefe737d0f3c2b8c",
-    "url": "/VisuAlGo/static/media/_hover=False, module=stack.2458efc0.svg"
+    "url": "/VisuAlGo/static/media/cover4.2458efc0.svg"
   },
   {
     "revision": "03c6b341e5a933c066a84301cacfd338",
-    "url": "/VisuAlGo/static/media/_hover=True, module=linkedList.03c6b341.svg"
+    "url": "/VisuAlGo/static/media/cover5.03c6b341.svg"
   },
   {
     "revision": "9d51a423838547be8c57e55534d68526",
-    "url": "/VisuAlGo/static/media/_hover=True, module=queue.9d51a423.svg"
+    "url": "/VisuAlGo/static/media/cover6.9d51a423.svg"
   },
   {
     "revision": "73f38d1fceee73af339f518665317e2e",
-    "url": "/VisuAlGo/static/media/_hover=True, module=sorting.73f38d1f.svg"
+    "url": "/VisuAlGo/static/media/cover7.73f38d1f.svg"
   },
   {
     "revision": "3e9bb2ba0da3700a2008d95713b0df21",
-    "url": "/VisuAlGo/static/media/_hover=True, module=stack.3e9bb2ba.svg"
+    "url": "/VisuAlGo/static/media/cover8.3e9bb2ba.svg"
   },
   {
     "revision": "0b04fecee65e3980cb6bd91bfbf2e233",
