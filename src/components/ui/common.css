@@ -1,29 +1,29 @@
 :root {
-    --background: #141414;
+    --background: #141218;
     --offset-base-size: 2px;
 
     --common-border-radius: 4px;
 
-    --text-color-primary: rgba(98, 145, 145, 0.13);
-    --text-color-secondary: #fff;
+    --text-color-primary: #19192D;
+    --text-color-secondary: #FFF7E9;
 
-    --text-color-h1: #fff;;
-    --text-color-black: #fff;;
-    --text-color-input: #3d3d3d;
+    --text-color-h1: #FFF7E9;;
+    --text-color-black: #141218;;
+    --text-color-input: #FFF7E9;
     --text-input-placeholder: #7a7a7a;
 
     --bg-input-hover: #fafafa;
     --bg-input-disabled: #ebebeb;
 
-    --red-bg-color: #790000;
+    --red-bg-color: #F46C5C;
 
-    --bg-button-default: #b6b6b6;
-    --bg-button-hover: #59b71d;
-    --bg-button-active: #bec2c2;
-    --bg-button-disabled: #a4a4a4;
+    --bg-button-default: #FFF7E9;
+    --bg-button-hover: #9D755B;
+    --bg-button-active: #319b88;
+    --bg-button-disabled: #3A394F;
 
-    --default-color: #dabc8c;
-    --changing-color: rgb(87, 87, 87);
+    --default-color: #e0b351;
+    --changing-color: rgb(75, 25, 25);
     --modified-color: #e0b351;
 
     --common-transition: all 0.4s ease-in;
@@ -61,20 +61,33 @@ body {
     color: var(--text-color-h1);
 }
 
+.text_color_h2 {
+    color: var(--text-color-h1);
+}
+
 .text_color_black {
     color: var(--text-color-black);
 }
 
 .text_color_input {
-    color: var(--text-color-input);
+    color: var(--text-color-primary);
+}
+
+.text_color_lim {
+    color: var(--text-color-secondary);
 }
 
 .text_color_link {
     color: var(--default-color);
 }
 
+.text_color_accent {
+    color: var(--red-bg-color);
+}
+
+
 .text_type_h1 {
-    font-family: Bergamasco, serif;
+    font-family: 'JOURNALISM', serif;
     font-style: normal;
     font-weight: 300;
     font-size: 134px;
@@ -82,71 +95,62 @@ body {
 }
 
 .text_type_h2 {
-    font-family: "Roboto", sans-serif;
+    font-family: "JOURNALISM", sans-serif;
     font-style: normal;
-    font-weight: 900;
-    font-size: 40px;
-    line-height: 49px;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 90px;
 }
 
 .text_type_h3 {
-    font-family: "Roboto", sans-serif;
+    font-family: "JOURNALISM", sans-serif;
     font-style: normal;
     font-weight: 600;
-    font-size: 32px;
-    line-height: 39px;
-}
-
-.text_type_ticker {
-    font-family: "Roboto", sans-serif;
-    font-style: normal;
-    font-weight: 900;
-    font-size: 44px;
-    line-height: 54px;
+    font-size: 70px;
+    line-height: 70px;
 }
 
 .text_type_button {
-    font-family: -apple-system, "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
+    font-family: "Amatic SC", serif;
     font-style: normal;
     font-weight: 600;
-    font-size: 16px;
-    line-height: 23px;
+    font-size: 36px;
+    line-height: 36px;
 }
 
 .text_type_input {
-    font-family: -apple-system, "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
+    font-family: "Amatic SC", serif;
     font-style: normal;
     font-weight: normal;
-    font-size: 18px;
-    line-height: 22px;
+    font-size: 32px;
+    line-height: 32px;
+}
+
+.text_type_column {
+    font-family: "Amatic SC", serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 24px;
 }
 
 .text_type_input-lim {
+    font-family: "Amatic SC", serif;
     font-style: normal;
     font-weight: normal;
-    font-size: 14px;
+    font-size: 22px;
     line-height: 22px;
 }
 
 .text_type_circle {
-    font-family: "Roboto", sans-serif;
+    font-family: "Amatic SC", serif;
     font-style: normal;
     font-weight: 600;
     font-size: 18px;
-    line-height: 22px;
+    line-height: 18px;
 }
 
-.text_type_column {
-    font-family: "Roboto", sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 16px;
-}
+
 
 .noselect {
     -webkit-touch-callout: none; /* iOS Safari */

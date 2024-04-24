@@ -33,7 +33,7 @@ export const Input: React.FC<InputProps> = ({
             />
             {isLimitText && (
                 <span
-                    className={`text text_type_input-lim text_color_input mt-2 ml-8 ${styles.limit}`}
+                    className={`text text_type_input-lim text_color_lim mt-2 ml-8 ${styles.limit}`}
                 >
           {limitText}
         </span>

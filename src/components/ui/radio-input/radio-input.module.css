@@ -27,7 +27,7 @@
     width: 20px;
     height: 20px;
     border-radius: 50%;
-    border: 2px solid #000;
+    border: 2px solid #ebebeb;
     left: -30px;
 }
 
@@ -35,7 +35,7 @@ input:checked + .label::after {
     width: 8px;
     height: 8px;
     border-radius: 50%;
-    background-color: #000;
+    background-color: #622323;
     left: -22px;
 }
 

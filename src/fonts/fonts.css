@@ -63,3 +63,27 @@
     font-display: swap;
     src: url("Bergamasco/Bergamasco Bold Italic.ttf") format("ttf");
 }
+
+@font-face {
+    font-family: 'JOURNALISM';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("Journalism/Journalism.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: 'Amatic SC';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("Amatic/AmaticSC-Regular.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: 'Amatic SC';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url("Amatic/AmaticSC-Bold.ttf") format("ttf");
+}

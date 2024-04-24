@@ -9,34 +9,52 @@
 .titleBox {
     display: flex;
     justify-content: center;
+    flex-direction: column;
     margin: auto;
 }
 
 .contentCard {
-    background: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-content: baseline;
+    justify-items: flex-start;
+    background: #141218;
     margin: 31px 20px 28px;
     padding: 36px;
     height: 693px;
     box-sizing: border-box;
+    justify-content: space-around;
 }
 
 .returnButton {
-    margin-bottom: 10px;
+    display: flex;
+    justify-self: flex-start;
+    margin-right: auto;
 }
 
 .cardTitle {
     display: flex;
     justify-content: center;
     margin-bottom: 20px;
+    flex-direction: row;
 }
 
 .copyright {
     display: flex;
     justify-content: center;
     text-align: center;
-    padding-bottom: 36px;
 }
 
 .link {
     text-decoration: none;
+}
+
+.titledContainer {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
+    justify-content: flex-start;
+    justify-self: center;
 }

@@ -17,7 +17,7 @@ export const MainPage: React.FC<MainPageProps> = ({extraClass = ""}) => {
                         Алгоритмы
                     </h1>
                     <p
-                        className={`text  text_color_secondary ${styles.title}`}
+                        className={`text text_type_h2 text_color_secondary ${styles.title}`}
                     >
                         и структуры данных
                     </p>
@@ -39,7 +39,7 @@ export const MainPage: React.FC<MainPageProps> = ({extraClass = ""}) => {
                 <p
                     className={`text text_type_column text_color_input mt-14 ${styles.copyright}`}
                 >
-                    © Сделано Юровских Илави.
+                    © Сделано Юровских Илави и Хрипуновым Даниилом.
                 </p>
             </main>
         </>

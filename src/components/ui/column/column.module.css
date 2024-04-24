@@ -13,3 +13,11 @@
 .default {
     background-color: var(--default-color);
 }
+
+.modified {
+    background-color: var(--bg-button-active);
+}
+
+.changing {
+    background-color: var(--red-bg-color);
+}

@@ -8,13 +8,14 @@
     background-color: var(--bg-button-default);
     padding: 18px 24px 19px 24px;
     transition: var(--common-transition);
-    max-height: 60px;
-    min-width: 130px;
+    height: 80px;
+    min-width: 190px;
 }
 
 .button:hover:enabled {
     background-color: var(--bg-button-hover);
     cursor: pointer;
+
 }
 
 .button:active:enabled {

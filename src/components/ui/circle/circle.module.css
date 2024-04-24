@@ -37,29 +37,29 @@
 }
 
 .head.element {
-    top: -70px;
+    top: -80px;
 }
 
 .head.string {
-    top: -30px;
+    top: -40px;
 }
 
 .index {
+    bottom: -40px;
+}
+
+.tail40.string {
     bottom: -30px;
 }
 
-.tail30.string {
-    bottom: -30px;
+.tail80.string {
+    bottom: -80px;
 }
 
-.tail60.string {
-    bottom: -60px;
+.tail40.element {
+    bottom: -80px;
 }
 
-.tail30.element {
-    bottom: -70px;
-}
-
-.tail60.element {
+.tail80.element {
     bottom: -100px;
 }
