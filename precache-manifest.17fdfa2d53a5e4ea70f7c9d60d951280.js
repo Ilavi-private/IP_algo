@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "27799235b0f9270ed48b5c8b27007524",
+    "revision": "17f68b6577561ccf9b6be7b604c9614f",
     "url": "/VisuAlGo/index.html"
   },
   {
-    "revision": "6039553740f049bada38",
-    "url": "/VisuAlGo/static/css/main.23f15fdd.chunk.css"
+    "revision": "6fa5d4927683f0b1208e",
+    "url": "/VisuAlGo/static/css/main.3fe0bfeb.chunk.css"
   },
   {
     "revision": "7e04c3e46866b279ab6c",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VisuAlGo/static/js/2.1c34c26d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6039553740f049bada38",
+    "revision": "6fa5d4927683f0b1208e",
     "url": "/VisuAlGo/static/js/main.2c0e8e15.chunk.js"
   },
   {
@@ -68,36 +68,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VisuAlGo/static/media/Journalism.a3ae700d.ttf"
   },
   {
-    "revision": "8532b8d86af0f6139f6a0b8e6d2af606",
-    "url": "/VisuAlGo/static/media/cover1.8532b8d8.svg"
+    "revision": "b7a871861e8b8e57cadcf227cc178364",
+    "url": "/VisuAlGo/static/media/cover1.b7a87186.svg"
   },
   {
-    "revision": "aaaf3f0072fe7a1c5cc8b0645700c3fe",
-    "url": "/VisuAlGo/static/media/cover2.aaaf3f00.svg"
+    "revision": "4a6a9538af8185b6a81bde1db5d7da4d",
+    "url": "/VisuAlGo/static/media/cover2.4a6a9538.svg"
   },
   {
-    "revision": "244026cd9f57fd3bb801c544b5d76f70",
-    "url": "/VisuAlGo/static/media/cover3.244026cd.svg"
+    "revision": "de4835271f2356a8d93dcd3d1c7691fa",
+    "url": "/VisuAlGo/static/media/cover3.de483527.svg"
   },
   {
-    "revision": "2458efc0aa50961abefe737d0f3c2b8c",
-    "url": "/VisuAlGo/static/media/cover4.2458efc0.svg"
+    "revision": "0eb14d784fbbc770f29cdc0f9b467974",
+    "url": "/VisuAlGo/static/media/cover4.0eb14d78.svg"
   },
   {
-    "revision": "03c6b341e5a933c066a84301cacfd338",
-    "url": "/VisuAlGo/static/media/cover5.03c6b341.svg"
+    "revision": "184f4b852db1ddfab657f051ba6e654b",
+    "url": "/VisuAlGo/static/media/cover5.184f4b85.svg"
   },
   {
-    "revision": "9d51a423838547be8c57e55534d68526",
-    "url": "/VisuAlGo/static/media/cover6.9d51a423.svg"
+    "revision": "3f6be9ab5161bc14de107689c80e6cef",
+    "url": "/VisuAlGo/static/media/cover6.3f6be9ab.svg"
   },
   {
-    "revision": "73f38d1fceee73af339f518665317e2e",
-    "url": "/VisuAlGo/static/media/cover7.73f38d1f.svg"
+    "revision": "33755ae484c3b0f6731f3ce4e02d92b7",
+    "url": "/VisuAlGo/static/media/cover7.33755ae4.svg"
   },
   {
-    "revision": "3e9bb2ba0da3700a2008d95713b0df21",
-    "url": "/VisuAlGo/static/media/cover8.3e9bb2ba.svg"
+    "revision": "e3c6028b12cef06278482892bc4fa9ef",
+    "url": "/VisuAlGo/static/media/cover8.e3c6028b.svg"
   },
   {
     "revision": "0b04fecee65e3980cb6bd91bfbf2e233",
