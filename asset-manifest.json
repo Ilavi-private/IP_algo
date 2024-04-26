@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/VisuAlGo/static/css/main.1e38864e.chunk.css",
+    "main.css": "/VisuAlGo/static/css/main.0d968123.chunk.css",
     "main.js": "/VisuAlGo/static/js/main.cddf38cf.chunk.js",
     "main.js.map": "/VisuAlGo/static/js/main.cddf38cf.chunk.js.map",
     "runtime-main.js": "/VisuAlGo/static/js/runtime-main.9c73e72d.js",
@@ -8,11 +8,11 @@
     "static/js/2.288586bb.chunk.js": "/VisuAlGo/static/js/2.288586bb.chunk.js",
     "static/js/2.288586bb.chunk.js.map": "/VisuAlGo/static/js/2.288586bb.chunk.js.map",
     "index.html": "/VisuAlGo/index.html",
-    "precache-manifest.2642a6ffe9c2918ae1431b146fc36862.js": "/VisuAlGo/precache-manifest.2642a6ffe9c2918ae1431b146fc36862.js",
+    "precache-manifest.2e518fe515f81243d1ed4ad8016878a1.js": "/VisuAlGo/precache-manifest.2e518fe515f81243d1ed4ad8016878a1.js",
     "service-worker.js": "/VisuAlGo/service-worker.js",
-    "static/css/main.1e38864e.chunk.css.map": "/VisuAlGo/static/css/main.1e38864e.chunk.css.map",
+    "static/css/main.0d968123.chunk.css.map": "/VisuAlGo/static/css/main.0d968123.chunk.css.map",
     "static/js/2.288586bb.chunk.js.LICENSE.txt": "/VisuAlGo/static/js/2.288586bb.chunk.js.LICENSE.txt",
-    "static/media/fonts.css": "/VisuAlGo/static/media/Journalism.a3ae700d.ttf",
+    "static/media/fonts.css": "/VisuAlGo/static/media/Journalism.d0353d4a.woff2",
     "static/media/solution-layout.module.css": "/VisuAlGo/static/media/DecorLine.5fdecf53.svg",
     "static/media/main-page.module.css": "/VisuAlGo/static/media/cover8.97773749.svg",
     "static/media/loader.svg": "/VisuAlGo/static/media/loader.0b04fece.svg"
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.9c73e72d.js",
     "static/js/2.288586bb.chunk.js",
-    "static/css/main.1e38864e.chunk.css",
+    "static/css/main.0d968123.chunk.css",
     "static/js/main.cddf38cf.chunk.js"
   ]
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "23efc43b97a93686b9400ed18831d720",
+    "revision": "c1d905c8691eab05a5e9e8488f636d48",
     "url": "/VisuAlGo/index.html"
   },
   {
-    "revision": "a9e2493366de2afc1400",
-    "url": "/VisuAlGo/static/css/main.1e38864e.chunk.css"
+    "revision": "a2e9643f2915dad0afa6",
+    "url": "/VisuAlGo/static/css/main.0d968123.chunk.css"
   },
   {
     "revision": "29c5f20174e7f43d63d5",
@@ -16,12 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VisuAlGo/static/js/2.288586bb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a9e2493366de2afc1400",
+    "revision": "a2e9643f2915dad0afa6",
     "url": "/VisuAlGo/static/js/main.cddf38cf.chunk.js"
   },
   {
     "revision": "b34359b9359b89ce27c7",
     "url": "/VisuAlGo/static/js/runtime-main.9c73e72d.js"
+  },
+  {
+    "revision": "9c144ccb151f1976b6dd04d5f357950c",
+    "url": "/VisuAlGo/static/media/AmaticSC-Bold.9c144ccb.otf"
+  },
+  {
+    "revision": "f54586f050410fb875937f7f3caa0ecd",
+    "url": "/VisuAlGo/static/media/AmaticSC-Bold.f54586f0.woff2"
   },
   {
     "revision": "fc2cf6f52e5e93d47948562ac011725b",
@@ -32,44 +40,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VisuAlGo/static/media/AmaticSC-Regular.04b6b080.ttf"
   },
   {
-    "revision": "257898567f4e330e0f5570f63d89cccb",
-    "url": "/VisuAlGo/static/media/Bergamasco Bold Italic.25789856.ttf"
-  },
-  {
-    "revision": "fc825eb08e572f405b2959aaaf6f8d39",
-    "url": "/VisuAlGo/static/media/Bergamasco Bold.fc825eb0.ttf"
-  },
-  {
-    "revision": "26f0cbb198e9ca4a2826a0823b5be6c6",
-    "url": "/VisuAlGo/static/media/Bergamasco Light Italic.26f0cbb1.ttf"
-  },
-  {
-    "revision": "f4a1ef9928c31c22f7620bf6cc1caf5f",
-    "url": "/VisuAlGo/static/media/Bergamasco Light.f4a1ef99.ttf"
-  },
-  {
-    "revision": "7bada6c4bc23c9ac8e071622ac94cd51",
-    "url": "/VisuAlGo/static/media/Bergamasco Regular Italic.7bada6c4.ttf"
-  },
-  {
-    "revision": "166196f36793135c2dba59635cf0081d",
-    "url": "/VisuAlGo/static/media/Bergamasco Regular.166196f3.ttf"
-  },
-  {
-    "revision": "4e08400e296cfa75507b49082b61bb1e",
-    "url": "/VisuAlGo/static/media/Bergamasco Semibold Italic.4e08400e.ttf"
-  },
-  {
-    "revision": "814bc3ae7871300aa014f2bc4d364d33",
-    "url": "/VisuAlGo/static/media/Bergamasco Semibold.814bc3ae.ttf"
-  },
-  {
     "revision": "5fdecf53e5d8c03c012f1b836d52a3d6",
     "url": "/VisuAlGo/static/media/DecorLine.5fdecf53.svg"
   },
   {
+    "revision": "3770ab9e581e443ac5683487d462ee1d",
+    "url": "/VisuAlGo/static/media/Journalism.3770ab9e.otf"
+  },
+  {
     "revision": "a3ae700d7c23679bd20932bf35ffbe5f",
     "url": "/VisuAlGo/static/media/Journalism.a3ae700d.ttf"
+  },
+  {
+    "revision": "d0353d4a6d38e1c113cbcac3875ac2e9",
+    "url": "/VisuAlGo/static/media/Journalism.d0353d4a.woff2"
   },
   {
     "revision": "686d861be17664674cb1781d0baa094f",
