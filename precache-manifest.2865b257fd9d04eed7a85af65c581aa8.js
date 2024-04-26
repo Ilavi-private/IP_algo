@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5ce244d3c9c93b1e171d5176d1ef2de",
+    "revision": "9b18bbdc67739b2f4f65c4f9baef45ae",
     "url": "/VisuAlGo/index.html"
   },
   {
-    "revision": "088b6c4e8005237fb7e8",
-    "url": "/VisuAlGo/static/css/main.e0fb43e8.chunk.css"
+    "revision": "61ec07aab81575cea08c",
+    "url": "/VisuAlGo/static/css/main.540d17fa.chunk.css"
   },
   {
     "revision": "29c5f20174e7f43d63d5",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VisuAlGo/static/js/2.288586bb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "088b6c4e8005237fb7e8",
-    "url": "/VisuAlGo/static/js/main.6f99c90a.chunk.js"
+    "revision": "61ec07aab81575cea08c",
+    "url": "/VisuAlGo/static/js/main.9eeb051b.chunk.js"
   },
   {
     "revision": "b34359b9359b89ce27c7",
