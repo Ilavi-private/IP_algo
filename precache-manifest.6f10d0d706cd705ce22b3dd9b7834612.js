@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c1d905c8691eab05a5e9e8488f636d48",
+    "revision": "4453be2af24380199a48dc865d5e1ef7",
     "url": "/VisuAlGo/index.html"
   },
   {
-    "revision": "a2e9643f2915dad0afa6",
-    "url": "/VisuAlGo/static/css/main.0d968123.chunk.css"
+    "revision": "5b9ff4e01974d05e3aef",
+    "url": "/VisuAlGo/static/css/main.3d19f605.chunk.css"
   },
   {
     "revision": "29c5f20174e7f43d63d5",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VisuAlGo/static/js/2.288586bb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a2e9643f2915dad0afa6",
-    "url": "/VisuAlGo/static/js/main.cddf38cf.chunk.js"
+    "revision": "5b9ff4e01974d05e3aef",
+    "url": "/VisuAlGo/static/js/main.6f99c90a.chunk.js"
   },
   {
     "revision": "b34359b9359b89ce27c7",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9c144ccb151f1976b6dd04d5f357950c",
     "url": "/VisuAlGo/static/media/AmaticSC-Bold.9c144ccb.otf"
+  },
+  {
+    "revision": "abe0544b96b8a396ca8db732d781099b",
+    "url": "/VisuAlGo/static/media/AmaticSC-Bold.abe0544b.woff"
   },
   {
     "revision": "f54586f050410fb875937f7f3caa0ecd",
@@ -50,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a3ae700d7c23679bd20932bf35ffbe5f",
     "url": "/VisuAlGo/static/media/Journalism.a3ae700d.ttf"
+  },
+  {
+    "revision": "c5caae808c82b2c0c34687845236be20",
+    "url": "/VisuAlGo/static/media/Journalism.c5caae80.woff"
   },
   {
     "revision": "d0353d4a6d38e1c113cbcac3875ac2e9",
