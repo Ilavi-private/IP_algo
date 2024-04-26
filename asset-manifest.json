@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/VisuAlGo/static/css/main.ba5c1957.chunk.css",
-    "main.js": "/VisuAlGo/static/js/main.2c0e8e15.chunk.js",
-    "main.js.map": "/VisuAlGo/static/js/main.2c0e8e15.chunk.js.map",
+    "main.css": "/VisuAlGo/static/css/main.4ea0d62b.chunk.css",
+    "main.js": "/VisuAlGo/static/js/main.b7c28466.chunk.js",
+    "main.js.map": "/VisuAlGo/static/js/main.b7c28466.chunk.js.map",
     "runtime-main.js": "/VisuAlGo/static/js/runtime-main.9c73e72d.js",
     "runtime-main.js.map": "/VisuAlGo/static/js/runtime-main.9c73e72d.js.map",
-    "static/js/2.1c34c26d.chunk.js": "/VisuAlGo/static/js/2.1c34c26d.chunk.js",
-    "static/js/2.1c34c26d.chunk.js.map": "/VisuAlGo/static/js/2.1c34c26d.chunk.js.map",
+    "static/js/2.288586bb.chunk.js": "/VisuAlGo/static/js/2.288586bb.chunk.js",
+    "static/js/2.288586bb.chunk.js.map": "/VisuAlGo/static/js/2.288586bb.chunk.js.map",
     "index.html": "/VisuAlGo/index.html",
-    "precache-manifest.b7294e89d9ef948fdcf321d734843d4a.js": "/VisuAlGo/precache-manifest.b7294e89d9ef948fdcf321d734843d4a.js",
+    "precache-manifest.03016c48ed44ad36720af15b647e1c08.js": "/VisuAlGo/precache-manifest.03016c48ed44ad36720af15b647e1c08.js",
     "service-worker.js": "/VisuAlGo/service-worker.js",
-    "static/css/main.ba5c1957.chunk.css.map": "/VisuAlGo/static/css/main.ba5c1957.chunk.css.map",
-    "static/js/2.1c34c26d.chunk.js.LICENSE.txt": "/VisuAlGo/static/js/2.1c34c26d.chunk.js.LICENSE.txt",
+    "static/css/main.4ea0d62b.chunk.css.map": "/VisuAlGo/static/css/main.4ea0d62b.chunk.css.map",
+    "static/js/2.288586bb.chunk.js.LICENSE.txt": "/VisuAlGo/static/js/2.288586bb.chunk.js.LICENSE.txt",
     "static/media/fonts.css": "/VisuAlGo/static/media/Journalism.a3ae700d.ttf",
-    "static/media/main-page.module.css": "/VisuAlGo/static/media/cover8.e3c6028b.svg",
+    "static/media/solution-layout.module.css": "/VisuAlGo/static/media/DecorLine.5fdecf53.svg",
+    "static/media/main-page.module.css": "/VisuAlGo/static/media/cover8.97773749.svg",
     "static/media/loader.svg": "/VisuAlGo/static/media/loader.0b04fece.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.9c73e72d.js",
-    "static/js/2.1c34c26d.chunk.js",
-    "static/css/main.ba5c1957.chunk.css",
-    "static/js/main.2c0e8e15.chunk.js"
+    "static/js/2.288586bb.chunk.js",
+    "static/css/main.4ea0d62b.chunk.css",
+    "static/js/main.b7c28466.chunk.js"
   ]
 }

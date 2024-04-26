@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c84e3d8944e38a3a6ee868e0b02de0b",
+    "revision": "16e025a659dc1d49b64d87b5e9e1e7ea",
     "url": "/VisuAlGo/index.html"
   },
   {
-    "revision": "dd31e6276fcc872e8e65",
-    "url": "/VisuAlGo/static/css/main.ba5c1957.chunk.css"
+    "revision": "29022c4cac7e41163ab1",
+    "url": "/VisuAlGo/static/css/main.4ea0d62b.chunk.css"
   },
   {
-    "revision": "7e04c3e46866b279ab6c",
-    "url": "/VisuAlGo/static/js/2.1c34c26d.chunk.js"
+    "revision": "29c5f20174e7f43d63d5",
+    "url": "/VisuAlGo/static/js/2.288586bb.chunk.js"
   },
   {
     "revision": "99562942502e41af72fc73d84afe4332",
-    "url": "/VisuAlGo/static/js/2.1c34c26d.chunk.js.LICENSE.txt"
+    "url": "/VisuAlGo/static/js/2.288586bb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dd31e6276fcc872e8e65",
-    "url": "/VisuAlGo/static/js/main.2c0e8e15.chunk.js"
+    "revision": "29022c4cac7e41163ab1",
+    "url": "/VisuAlGo/static/js/main.b7c28466.chunk.js"
   },
   {
     "revision": "b34359b9359b89ce27c7",
@@ -64,40 +64,44 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VisuAlGo/static/media/Bergamasco Semibold.814bc3ae.ttf"
   },
   {
+    "revision": "5fdecf53e5d8c03c012f1b836d52a3d6",
+    "url": "/VisuAlGo/static/media/DecorLine.5fdecf53.svg"
+  },
+  {
     "revision": "a3ae700d7c23679bd20932bf35ffbe5f",
     "url": "/VisuAlGo/static/media/Journalism.a3ae700d.ttf"
   },
   {
-    "revision": "b7a871861e8b8e57cadcf227cc178364",
-    "url": "/VisuAlGo/static/media/cover1.b7a87186.svg"
+    "revision": "686d861be17664674cb1781d0baa094f",
+    "url": "/VisuAlGo/static/media/cover1.686d861b.svg"
   },
   {
-    "revision": "4a6a9538af8185b6a81bde1db5d7da4d",
-    "url": "/VisuAlGo/static/media/cover2.4a6a9538.svg"
+    "revision": "d265ffcf2c01e08e8c6fe8d9d65551fb",
+    "url": "/VisuAlGo/static/media/cover2.d265ffcf.svg"
   },
   {
-    "revision": "de4835271f2356a8d93dcd3d1c7691fa",
-    "url": "/VisuAlGo/static/media/cover3.de483527.svg"
+    "revision": "afe7ae79ba28b257e97efa40eb2d1340",
+    "url": "/VisuAlGo/static/media/cover3.afe7ae79.svg"
   },
   {
-    "revision": "0eb14d784fbbc770f29cdc0f9b467974",
-    "url": "/VisuAlGo/static/media/cover4.0eb14d78.svg"
+    "revision": "f2c9a25f1c7cf0f4a23c1e562bf3c420",
+    "url": "/VisuAlGo/static/media/cover4.f2c9a25f.svg"
   },
   {
-    "revision": "184f4b852db1ddfab657f051ba6e654b",
-    "url": "/VisuAlGo/static/media/cover5.184f4b85.svg"
+    "revision": "8fa73bcaf815db8fa5a787cb51696686",
+    "url": "/VisuAlGo/static/media/cover5.8fa73bca.svg"
   },
   {
-    "revision": "3f6be9ab5161bc14de107689c80e6cef",
-    "url": "/VisuAlGo/static/media/cover6.3f6be9ab.svg"
+    "revision": "09ef9e408260e3f2e8e03a84035f4d33",
+    "url": "/VisuAlGo/static/media/cover6.09ef9e40.svg"
   },
   {
-    "revision": "33755ae484c3b0f6731f3ce4e02d92b7",
-    "url": "/VisuAlGo/static/media/cover7.33755ae4.svg"
+    "revision": "c94493ea4cf45056390b5266c4e876d9",
+    "url": "/VisuAlGo/static/media/cover7.c94493ea.svg"
   },
   {
-    "revision": "e3c6028b12cef06278482892bc4fa9ef",
-    "url": "/VisuAlGo/static/media/cover8.e3c6028b.svg"
+    "revision": "97773749cc432a35ab17dbb642359c88",
+    "url": "/VisuAlGo/static/media/cover8.97773749.svg"
   },
   {
     "revision": "0b04fecee65e3980cb6bd91bfbf2e233",
